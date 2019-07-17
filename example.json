@@ -1,0 +1,15 @@
+{
+    "name": "jose",
+    "lastName": "garcia",
+    "skills": [
+        {
+            "name": "honsty"
+        },
+        {
+            "name": "responsability"
+        },
+        {
+            "name": "otro"
+        }
+    ]
+}
